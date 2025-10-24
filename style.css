@@ -109,6 +109,7 @@ li button:hover {
 }
 /* END of Mainbody */
 
+/* Services Section */
 .services {
     padding: 4rem 2rem;
     background-color: #fff;
@@ -164,6 +165,7 @@ li button:hover {
     color: rgba(4, 117, 4, 0.795);
     font-weight: 700;
 }
+/* Services Section ends */
 
 footer {
     text-align: center;
@@ -184,6 +186,15 @@ footer {
 
     .home h1 {
         font-size: 2rem;
+    }
+
+    .home p {
+        font-size: 0.8rem;
+        width: 500px;
+    }
+
+    li button {
+        margin-right: 4rem;
     }
 
     .service-container {
